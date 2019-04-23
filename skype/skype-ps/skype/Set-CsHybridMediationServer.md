@@ -57,7 +57,7 @@ Accept wildcard characters: False
 ```
 
 ### -Fqdn
-Specifies the fully qualified domain name of the mediation server that includes the internal Active Directory domain, such as mediationserver.contoso.com
+Specifies the fully qualified domain name of the mediation server that includes the internal Active Directory domain, such as Sip:Med01.CCEDomain.local@contoso.com
 
 ```yaml
 Type: String
